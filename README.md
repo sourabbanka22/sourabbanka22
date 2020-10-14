@@ -1,8 +1,4 @@
-### Hi there, I'm Sourab Banka 👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/SourabBanka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=SourabBanka&screen_name=SourabBanka)
-
-## I'm a Full Stack Developer, Software Engineer, and a Technology Enthusiast!!
+### Hi there, I'm Sourab Banka 👋, I'm a Full Stack Developer, Software Engineer, and a Technology Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
