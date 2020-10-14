@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Football
 
-### Connect with me: [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SourabBanka)
-
 <br />
 
 ### Languages and Tools:
@@ -44,5 +42,6 @@
 
   [![Sourab's github stats](https://github-readme-stats.vercel.app/api?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
 
+  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
 
 </details>
