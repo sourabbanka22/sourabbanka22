@@ -42,3 +42,9 @@
 
 </details>
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Sourab's GitHub Stats" src="https://github-readme-stats.sourabbanka22.vercel.app/api?username=sourabbanka22&show_icons=true&hide_border=true" />
+
+</details>
