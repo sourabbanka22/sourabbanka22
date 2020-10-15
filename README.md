@@ -1,4 +1,4 @@
-### Hi there, I'm Sourab Banka 👋, I'm a Full Stack Developer, Software Engineer, and a Technology Enthusiast!!
+### Hi there, I'm Sourab Banka 👋, I'm a Full Stack Developer and a Technology Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -35,6 +35,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+
+  <br />
 
   [![Sourab's github stats](https://github-readme-stats.vercel.app/api?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
 
