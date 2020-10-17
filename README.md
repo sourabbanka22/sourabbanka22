@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Football
+- ⚡ Fun fact: COFFEE IS NOT MY CUP OF TEA
 
 <br />
 
