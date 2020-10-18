@@ -31,8 +31,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
 
   <br />
 
@@ -40,6 +39,5 @@
 
   [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
 
-</details>
 
 ![pv](https://pageview.vercel.app/?github_user=sourabbanka22)
