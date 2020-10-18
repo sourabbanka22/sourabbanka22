@@ -33,11 +33,9 @@
 
 :zap: GitHub Stats
 
-  <br />
+[![Sourab's github stats](https://github-readme-stats.vercel.app/api?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
 
-  [![Sourab's github stats](https://github-readme-stats.vercel.app/api?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
-
-  [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabbanka22)](https://github.com/sourabbanka22/github-readme-stats)
 
 
 ![pv](https://pageview.vercel.app/?github_user=sourabbanka22)
